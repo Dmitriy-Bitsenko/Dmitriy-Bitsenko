@@ -6,9 +6,9 @@
 
 ---
 
-## Мой стек
+## Tech Stack
 
-###  Python & Backend
+### Python & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
@@ -21,20 +21,20 @@
 ![CSS Selectors/XPath](https://img.shields.io/badge/CSS_%7C_XPath-ff69b4?style=for-the-badge)
 ![AJAX Parsing](https://img.shields.io/badge/AJAX-00bcd4?style=for-the-badge)
 
-### Базы данных
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Данные & Экспорт
+### Data & Export
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![CSV/Excel](https://img.shields.io/badge/OpenPyXL_/_CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Фронтенд
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-###  Инструменты
+### Tools
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-333?style=for-the-badge)
@@ -58,7 +58,7 @@
 
 ---
 
-##  Открыт к предложениям
+## Открыт к предложениям
 
 ✅ **Web Scraping** — парсеры любой сложности (Scrapy, Selenium)<br>
 ✅ **Backend** — Django, DRF, API<br>
