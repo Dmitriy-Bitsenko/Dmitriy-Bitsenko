@@ -41,32 +41,6 @@
 
 ---
 
-## 🚀 Проекты
-
-### **[SNABIO](https://github.com/Dmitriy-Bitsenko/SNABIO)**
-5 Scrapy-парсеров B2B сайтов хим. отрасли — 2,279 товаров
-> Scrapy, Selenium, AJAX, CSS Selectors
-
-### **[Krasnoturinsk](https://github.com/Dmitriy-Bitsenko/Krasnoturinsk)**
-Парсер нормативных документов Администрации г. Краснотурьинск — 5,335+ записей
-> Scrapy, Python, CSV
-
-### **[Parser_news](https://github.com/Dmitriy-Bitsenko/Parser_news)**
-Агрегатор новостей: Lenta.ru, RBC, Russia Today
-> Scrapy, BeautifulSoup, Django
-
-### **[pizzeria](https://github.com/Dmitriy-Bitsenko/pizzeria)**
-Интернет-магазин пицц: каталог, корзина, авторизация, DRF API
-> Django, DRF, PostgreSQL, Bootstrap 5
-
-### **[Phone-shop-console-app](https://github.com/Dmitriy-Bitsenko/Phone-shop-console-app) ⭐**
-Консольный магазин телефонов: ООП, CRUD, SQLite
-> Python, OOP, SQLite, CLI
-
-> 🏗️ **Сейчас работаю над:** **Jobify** _(в разработке)_ — платформа аналитики рынка труда на базе hh.ru
-
----
-
 ## 📊 GitHub Статистика
 
 <div align="center">
