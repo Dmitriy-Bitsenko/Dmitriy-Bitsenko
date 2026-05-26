@@ -1,8 +1,8 @@
-# Привет, я Дмитрий Биценко
+# Hello, I am Dmitrii Bitsenko
 
 ### Python Developer | Web Scraping & Django Backend
 
-Разрабатываю парсеры и бэкенд-сервисы.
+I develop parsers and backend services.
 
 ---
 
